@@ -1,0 +1,6 @@
+id=magisk-cloud-services
+name=Magisk Cloud Services
+version=1.0.0
+versionCode=1
+author=Trae AI
+description=Cloud services for Magisk, including module sync, remote management, and update service

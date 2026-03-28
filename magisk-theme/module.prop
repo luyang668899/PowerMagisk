@@ -1,0 +1,7 @@
+id=magisk_theme_example
+name=Magisk Theme Example
+version=v1.0
+versionCode=1
+author=Trae AI
+description=An example Magisk app theme
+minMagisk=24000

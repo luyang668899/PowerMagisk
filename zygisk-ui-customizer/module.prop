@@ -1,0 +1,6 @@
+id=zygisk-ui-customizer
+name=Zygisk UI Customizer
+version=1.0.0
+versionCode=1
+author=Trae AI
+description=Modifies system UI elements and behavior through Zygisk injection

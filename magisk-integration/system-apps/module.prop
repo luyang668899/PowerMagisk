@@ -1,0 +1,6 @@
+id=magisk-system-app-integration
+name=Magisk System App Integration
+version=1.0.0
+versionCode=1
+author=Trae AI
+description=Deep integration with system-level apps

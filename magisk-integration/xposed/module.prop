@@ -1,0 +1,6 @@
+id=magisk-xposed-compatibility
+name=Magisk Xposed Compatibility
+version=1.0.0
+versionCode=1
+author=Trae AI
+description=Compatibility layer for Xposed modules

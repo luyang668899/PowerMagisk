@@ -1,0 +1,7 @@
+id=magisk_firewall
+name=Magisk Firewall
+version=v1.0
+versionCode=1
+author=Trae AI
+description=Implement system-level firewall to control app network access
+minMagisk=24000

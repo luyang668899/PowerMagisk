@@ -1,0 +1,7 @@
+id=example_module
+name=Example Module
+version=v1.0
+versionCode=1
+author=Trae AI
+description=An example Magisk module
+minMagisk=20000

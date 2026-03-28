@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    <!-- Secondary colors -->
+    <color name="colorSecondary">#757575</color>
+    <color name="colorSecondaryDark">#424242</color>
+    <color name="colorSecondaryLight">#BDBDBD</color>
+    
+    <!-- Background colors -->
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorError">#F44336</color>
+    
+    <!-- Text colors -->
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorOnBackground">#212121</color>
+    <color name="colorOnSurface">#212121</color>
+    <color name="colorOnError">#FFFFFF</color>
+    
+    <!-- Material design elevation -->
+    <dimen name="elevation_card">4dp</dimen>
+    <dimen name="elevation_fab">8dp</dimen>
+    <dimen name="elevation_app_bar">4dp</dimen>
+    
+    <!-- Typography -->
+    <fontFamily name="fontFamilyRegular">@font/roboto_regular</fontFamily>
+    <fontFamily name="fontFamilyMedium">@font/roboto_medium</fontFamily>
+    <fontFamily name="fontFamilyBold">@font/roboto_bold</fontFamily>
+</resources>

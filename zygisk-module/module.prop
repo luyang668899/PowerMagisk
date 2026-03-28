@@ -1,0 +1,7 @@
+id=zygisk_example
+name=Zygisk Example Module
+version=v1.0
+versionCode=1
+author=Trae AI
+description=An example Zygisk module
+minMagisk=24000

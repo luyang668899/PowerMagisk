@@ -1,0 +1,6 @@
+id=zygisk-behavior-monitor
+name=Zygisk Behavior Monitor
+version=1.0.0
+versionCode=1
+author=Trae AI
+description=Monitors and logs app behavior, identifies suspicious activities

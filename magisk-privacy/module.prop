@@ -1,0 +1,7 @@
+id=magisk_privacy
+name=Magisk Privacy Protector
+version=v1.0
+versionCode=1
+author=Trae AI
+description=Protect privacy by blocking apps from collecting sensitive information and limiting permission abuse
+minMagisk=24000

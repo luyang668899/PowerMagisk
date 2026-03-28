@@ -1,0 +1,7 @@
+id=zygisk_permission
+name=Zygisk Permission Manager
+version=v1.0
+versionCode=1
+author=Trae AI
+description=Fine-grained control of app permissions beyond system limits
+minMagisk=24000

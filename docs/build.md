@@ -78,3 +78,36 @@ rustup +nightly component add rust-src clippy
 - To do any development on Magisk itself, switch to an **official debug build and reinstall Magisk** to turn off the signature check.
 - To distribute your own Magisk builds signed with your own keys, set your signing configs in `config.prop`.
 - Check [Google's Documentation](https://developer.android.com/studio/publish/app-signing.html#generate-key) for more details on generating your own key.
+
+## Custom Modules Development
+
+This project includes several custom Magisk modules developed for enhanced functionality:
+
+### System Optimization Modules
+- **magisk-performance**: Optimizes system memory management, CPU scheduling, and I/O performance
+- **magisk-battery**: Reduces background app wakeups, optimizes system services, and hardware power consumption
+- **magisk-network**: Optimizes network stack, DNS resolution, and connection management
+
+### Security Enhancement Modules
+- **magisk-privacy**: Blocks apps from collecting sensitive information and limits permission abuse
+- **magisk-security**: Enhances system security to prevent malicious apps and attacks
+- **magisk-firewall**: Implements system-level firewall to control app network access
+
+### Cross-platform Integration
+- **magisk-integration**: Integrates with Tasker, Xposed modules, and system apps
+- **magisk-cloud-services**: Provides cloud sync, remote management, and module update services
+
+### Development Tools
+- **magisk-tools**: Includes system maintenance tools and development utilities
+
+## Module Development Guide
+
+1. **Module Structure**: Each module follows the standard Magisk module structure with `module.prop` and necessary scripts
+2. **Development Workflow**:
+   - Create module directory structure
+   - Edit `module.prop` with module information
+   - Write initialization scripts (`post-fs-data.sh`, `service.sh`)
+   - Test module functionality
+   - Package module as zip file
+3. **Testing**: Test modules in a controlled environment before distribution
+4. **Distribution**: Share modules through Magisk Manager or other distribution channels

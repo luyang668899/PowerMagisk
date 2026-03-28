@@ -1,0 +1,7 @@
+id=magisk_battery
+name=Magisk Battery Optimizer
+version=v1.0
+versionCode=1
+author=Trae AI
+description=Optimize battery life by reducing background app wakeups, optimizing system services and hardware power consumption
+minMagisk=24000

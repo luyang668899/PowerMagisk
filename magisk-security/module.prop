@@ -1,0 +1,7 @@
+id=magisk_security
+name=Magisk Security Enhancer
+version=v1.0
+versionCode=1
+author=Trae AI
+description=Enhance system security to prevent malicious apps and attacks
+minMagisk=24000

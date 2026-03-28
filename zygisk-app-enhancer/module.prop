@@ -1,0 +1,6 @@
+id=zygisk-app-enhancer
+name=Zygisk App Enhancer
+version=1.0.0
+versionCode=1
+author=Trae AI
+description=Adds extra features to specific apps, such as video download and content unlocking

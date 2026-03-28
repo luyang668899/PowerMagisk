@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Magisk UI Plugin</string>
+    <string name="home_title">Home</string>
+    <string name="home_message">Welcome to Magisk UI Plugin!</string>
+</resources>

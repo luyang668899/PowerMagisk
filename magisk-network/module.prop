@@ -1,0 +1,7 @@
+id=magisk_network
+name=Magisk Network Optimizer
+version=v1.0
+versionCode=1
+author=Trae AI
+description=Optimize network performance by optimizing network stack, DNS resolution and connection management
+minMagisk=24000
