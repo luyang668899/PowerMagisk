@@ -25,6 +25,12 @@ Some highlight features:
 - [Magisk Documentation](https://topjohnwu.github.io/Magisk/)
 - [Zygisk module sample](https://github.com/topjohnwu/zygisk-module-sample)
 
+## 项目文档
+
+- [开发文档](docs/build.md) - 环境设置、构建方法和模块开发指南
+- [使用说明书](docs/usage.md) - 各模块功能和使用方法
+- [项目结构](docs/project-structure.md) - 项目目录结构和模块组织
+
 ## Bug Reports
 
 **Only bug reports from Debug builds will be accepted.**
